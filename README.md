@@ -1,3 +1,5 @@
+![Modular Societies Logo](https://github.com/luandro/modular-societies/blob/master/assets/logo.png)
+
 ## Introduction
 
 Through meditation and similar practices, one can for brief moments become external to himself. And by doing this, he can in turn ponder about aspects of himself that would otherwise have been hidden.
