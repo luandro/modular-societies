@@ -4,17 +4,26 @@
 
 In just about one decade of existence the World Wide Web emerged and became, where available, the de-facto medium for human communication. 
 
-But as I write this, early 2016, we are still making use of electronic plaforms similarlly to the way we were with technologies like the television or the phone. Negalacting the use of this technology in many fundamental areas of social organization such as exchange of goods and decision making. This essay is an investigation on the philosophy, use and impact of electronic communication technologies that have contributed to what I would call modular societies.
+But as I write this, early 2016, we are still using digital plaforms in a similar way as with technologies like the television or the phone. We've been negalacting the use of these technologies in many fundamental areas of social organization such as exchange of goods and services, and decision making. This essay is an investigation on the philosophy, use and impact of electronic communication technologies that have contributed to the strengthening of political and economic independence within a community.
 
-Phantom Müller described in 1960 the [Global Village](http://wikipedia.com/global_village), as global society that taking into account the impacts of what he called electronic mediums. Basically what today we know as the web.
+Why focus on community values, not on invidual values? Both are fundamental for human well being. But the centralization of human population has had many social consequences such as wide-spread of neo-liberal economic practices and the acceptance of an oligaricarian model of governance as a democracy, which in turn had many impacts on the satisfaction of [Fundamental Human Needs](http://wikipedia.com/fundamental_human_needs). These models are focused on individualistic values, leaving unbalanced the scale of indivual versus the collective.
 
-The centralization of human population had many social consequences such as wide-spread of neo-liberal economic practices and the acceptance of an oligaricarian model of governance, which in turn had many impacts on the satisfaction of [Fundamental Human Needs](http://wikipedia.com/fundamental_human_needs). Decentralization of not only power, information and goods but also of people could unargueably bring many advantages to human well being. These changes would in no way depend on top-of-pyramid organizations, only in members of a modular community.
+The [Global Village](http://wikipedia.com/global_village) was imagined as how society behavior would be impacted by the so called electronic mediums (basically what we call the Web). Modular Socities in turn is about how decentralized local networking could be used to build community values and strive for economic and political independence. Decentralization of not only power, information and goods but also of people could unargueably bring many advantages to human well being. These changes would in no way depend on top-of-pyramid organizations, only in members of a community.
 
-Barefoot societies. Digital Natives.
+With this I will try identify patterns and guidelines that could be useful for the creation and sustenance of modular societies, inspired by anthropological studies and personal observations on how isolated societies function and achieve collective well being. As well as how this knowledge relates and could be strengthned by digital communication technologies.
 
-Open Source, P2P, Block-chain
 
-### Open Source
+## Age of Tumor
+
+The sad truth is that the most users either have become addicted to instant communication, which has generated wide spread of very anti-social real world behavior; content most users generated is a reflection of information created by the same old sources; and are as if they could only read, and not write, because of the dificulty involved in developing and deploying an application.
+
+Ideally societies should have come to exist from common needs that would be more easily solved from combining efforts of many groups of people. Unfortunately as history tells us, it was less about choice or needs and more about force for the most part of the so called "civilized world".
+
+As we enter a new phase of human development where communication has become global and real-time, we can now start conceiving alternative ways of organizing ourselves. The most obvious question is than what would be the bases for our comming together to form a society? The achievement of well being would be the most reasonable answer, as in theory this is what every person works to achieve.
+
+## Dapps
+
+##### Open Source
 
 			The application must be completely open-source, it must operate autonomously, and with no entity controlling the majority of its tokens. The application may adapt its protocol in response to proposed improvements and market feedback but all changes must be decided by consensus of its users.
 
@@ -127,7 +136,7 @@ An organization's responsability should be minimal to get it started, and decisi
 
 			A user-behavior reward is given to contributors that provide utility to the network. The whitepaper should outline what constitutes utility for the DApp. (For example, hashing power is utility on the Bitcoin network and it is rewarded.) Utility should be measurable, like in the case of a data storage Dapp, amount of storage is measurable.
 
-#### Using blockchain as data storage
+##### Using blockchain as data storage
 
 			One mechanism by which type II Dapps can leverage the block chain of type I Dapps is by embedding additional data to the transactions taking place in the type I DA. The Master Protocol, for example, embeds additional data on the transactions of the Bitcoin network. Although currently (February 2014) Mastercoin embeds its additional data in an ad-hoc way into the Bitcoin block chain, the release of the 0.9 version of the Bitcoin reference client will provide a standard method for that embedding. By using the methodology of “provably prune-able outputs,” type II decentralized applications that are based on Bitcoin will be able to embed data in a systematic way and Bitcoin miners will have the option to prune those data.
 
@@ -158,20 +167,9 @@ For creating tokens:
 			Minable tokens: Distribution of tokens by mining incentivizes the community to contribute resources to the Dapp. In Bitcoin for example, there is a block reward every ten minutes, that incentivizes miners to provide hashing power to Bitcoin. Similarly, Dapps need to determine how to incentivize the network to contribute the required resource as this is the most important decision about the token distribution.
 
 
-
-## Dark Age of the Web
-
-The sad truth is that the most users either have become addicted to instant communication, which has generated wide spread of very anti-social real world behavior; content most users generated is a reflection of information created by the same old sources; and are as if they could only read, and not write, because of the dificulty involved in being a part of the web structure.
-
 ## Barefoot sociaties
 
-This essay will try identify patterns and guidelines that could be useful for the creation and sustenance of modular societies.
 
-## Bases
-
-Ideally societies should have come to exist from common needs that would be more easily solved from combining efforts of many groups of people. Unfortunately as history tells us, it was less about choice and more about force for the most part of the so called "civilized world".
-
-As we enter a new phase of human development where communication has become global, we can now start conceiving alternative ways of organizing ourselves. The most obvious question is than what would be the bases for our comming together to form a society? The achievement of well being would be the most sensible answer, as this is what every person works to achieve.  
 
 ## The New Model
 
@@ -185,3 +183,7 @@ As we enter a new phase of human development where communication has become glob
 ## Thank you!
 
 Please leave some feedback. Pull requests with edits are very welcome.
+
+## License
+
+Public Domain. Do what ever you like!
