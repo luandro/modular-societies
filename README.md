@@ -2,24 +2,23 @@
 
 ## Introduction
 
-In just about one decade of existence the World Wide Web emerged and became, where available, the de-facto medium for human communication. 
+In just about one decade of existence the World Wide Web emerged and became, where available, the de-facto medium for human communication.
 
-But as I write this, early 2016, we are still using digital plaforms in a similar way as with technologies like the television or the phone. We've been negalacting the use of these technologies in many fundamental areas of social organization such as exchange of goods and services, and decision making. This essay is an investigation on the philosophy, use and impact of electronic communication technologies that have contributed to the strengthening of political and economic independence within a community.
+But as I write this, early 2016, we are still using digital platforms in a similar way as with technologies like the television or the phone. We've been neglecting the use of these technologies in many fundamental areas of social organization such as exchange of goods and services, and decision making. This essay is an investigation on the philosophy, use and impact of electronic communication technologies that have contributed to the strengthening of political and economic independence within a community.
 
-Why focus on community values, not on invidual values? Both are fundamental for human well being. But the centralization of human population has had many social consequences such as wide-spread of neo-liberal economic practices and the acceptance of an oligaricarian model of governance as a democracy, which in turn had many impacts on the satisfaction of [Fundamental Human Needs](http://wikipedia.com/fundamental_human_needs). These models are focused on individualistic values, leaving unbalanced the scale of indivual versus the collective.
+Why focus on community values, not on individual values? Both are fundamental for human well being. But the centralization of human population has had many social consequences such as wide-spread of neoliberal economic practices and the acceptance of an oligaricarian model of governance, which in turn had many impacts on the satisfaction of [Fundamental Human Needs](http://wikipedia.com/fundamental_human_needs). These models are focused on individualistic values, leaving unbalanced the scale of individual versus the collective.
 
-The [Global Village](http://wikipedia.com/global_village) was imagined as how society behavior would be impacted by the so called electronic mediums (basically what we call the Web). Modular Socities in turn is about how decentralized local networking could be used to build community values and strive for economic and political independence. Decentralization of not only power, information and goods but also of people could unargueably bring many advantages to human well being. These changes would in no way depend on top-of-pyramid organizations, only in members of a community.
+Modular Societies is about how decentralized local networking could be used to build community values and strive for economic and political independence. Decentralization of political and economic power and information unarguably brings many advantages to human well being. These changes would in no way depend on top-of-pyramid organizations, only in members of a community.
 
 With this I will try identify patterns and guidelines that could be useful for the creation and sustenance of modular societies, inspired by anthropological studies and personal observations on how isolated societies function and achieve collective well being. As well as how this knowledge relates and could be strengthned by digital communication technologies.
-
 
 ## Age of Tumor
 
 The sad truth is that the most users either have become addicted to instant communication, which has generated wide spread of very anti-social real world behavior; content most users generated is a reflection of information created by the same old sources; and are as if they could only read, and not write, because of the dificulty involved in developing and deploying an application.
 
-Ideally societies should have come to exist from common needs that would be more easily solved from combining efforts of many groups of people. Unfortunately as history tells us, it was less about choice or needs and more about force for the most part of the so called "civilized world".
+Ideally societies should have come to exist from common needs that would be more easily solved from combining efforts of many. Unfortunately as history tells us, it was less about choice or needs and more about force for the most part of the so called "civilized world".
 
-As we enter a new phase of human development where communication has become global and real-time, we can now start conceiving alternative ways of organizing ourselves. The most obvious question is than what would be the bases for our comming together to form a society? The achievement of well being would be the most reasonable answer, as in theory this is what every person works to achieve.
+As we enter a new phase of human development where communication has become global, we can now start conceiving alternative ways of organizing ourselves. The most obvious question than is what would be the bases for our joining together to form a communal society? The achievement of well being would be the most reasonable answer, as in theory this is what every person works to achieve.
 
 ## Dapps
 
@@ -31,17 +30,17 @@ As we enter a new phase of human development where communication has become glob
 
 			The application must use a cryptographic token (bitcoin or a token native to its system) which is necessary for access to the application and any contribution of value from (miners / farmers) should be rewarded in the application’s tokens.
 
-			The application must generate tokens according to a standard crytptographic algorithm acting as a proof of the value nodes are contributing to the application (Bitcoin uses the Proof of Work Algorithm).
+			The application must generate tokens according to a standard cryptographic algorithm acting as proof of the value nodes are contributing to the application (Bitcoin uses the Proof-of-Work Algorithm).
 
-Modular societies should adapt to take into account real community values. For example in rural area Brazil, a community could use a Prood of Work in bananas, chicken, labor hours.
+Modular societies should adapt to take into account real community values. For example in rural areas, a community could use a Proof-of-Work in cultivating bananas, raising and breeding chickens, labor hours, etc.
 
 			All changes to Bitcoin must be approved by a majority consensus of its users through the proof-of-work mechanism.
 
-This is basically a self-governend entity, based on consensus system. Such system is the same used in well organized barefoot societies, assemblies, etc. I've seen it work in a society with a thousand members, so the use of such system should be balanced between real-world and digital interactions, according to the communitie's scale.
+This is basically a self-governed entity, based on consensus system. Such system is the same used in well organized indigenous societies in the Philliphines[1](cite some work), assemblies[2](cite some other), etc. I've seen it work in a society with a thousand members, so the use of such system should be balanced between real-world and digital interactions, according to the communitie's scale.
 
 			The same way that governments struggle to learn and regulate Bitcoin because the concept of currency is associated with it, governments might be compelled to regulate an open-source computer program that is a decentralized application.
 
-			The ownership of the Dapp’s tokens is all that is required for the holder to use the system. It’s that simple. The value of the tokens is determined by how much people value the application. All the incentives, all the monetization, all the ways to raise support are built into this beautifully simple structure. 
+			The ownership of the Dapp’s tokens is all that is required for the holder to use the system. It’s that simple. The value of the tokens is determined by how much people value the application. All the incentives, all the monetization, all the ways to raise support are built into this beautifully simple structure.
 
 [Daaps](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
 ##### Proof-of-Work and Proof-of-Stake Mechanisms
@@ -119,13 +118,13 @@ An organization's responsability should be minimal to get it started, and decisi
 			- Structure of the non-profit that oversees the Dapp
 			- Management of developer bounties
 			- Technical description of the Dapp
-			
+
 			2. Gain community engagement by releasing the plan and by revising it based on feedback.
 
 			3. Set a date when the community can contribute to the crowd-sale.
-			
+
 			4. Sell the initial tokens based on your whitepaper and establish a non-profit to oversee the development of the Dapp.
-			
+
 			5. Begin executing your idea while the non-profit plans future development.
 
 ##### Why is a Dapp a profitable model for developers, users and contributors?
@@ -145,7 +144,6 @@ An organization's responsability should be minimal to get it started, and decisi
 			- MaidSafe provides a “proof of resource” mechanism and decentralized data structure for storing files privately or publicly in the cloud.
 			- StorJ provides a front-end, Dropbox-like cloud storage of files utilizing MaidSafe and other systems in the back-end.
 			- Ethereum provides consensus-based scripting and computing resources.
-			OpenGarden provides mesh network-based Internet services.
 			- Scalion provides an incentivized version of the Tor Network with nodes serving as Tor relays and exits.
 			- Shared Miles provides a proof of transportation mechanism that allows for an open source transportation standard.
 			- BlockAuth provides a multi signature OAuth-style system for sharing private data with third parties.
@@ -168,15 +166,13 @@ For creating tokens:
 
 
 ## Barefoot sociaties
-
+You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete
 
 
 ## The New Model
 
-			You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete
-
 			Dapps have the potential to become self-sustaining because they empower their stakeholders to invest in the development of the Dapp. Because of that, it is conceivable that Dapps for payments, data storage, bandwidth and cloud computing may one day surpass the valuation of multinational corporations like Visa, Dropbox, Comcast, and Amazon that are are currently active in the space.
-			
+
 			Based on the economic and efficiency advantages of decentralized applications its clear that existing centralized services will be displaced over time by decentralized alternatives. This shift is likely to come most quickly for services in which the network effect advantages of Metcalfe’s Law are most critical to the success of the service provider.
 
 
